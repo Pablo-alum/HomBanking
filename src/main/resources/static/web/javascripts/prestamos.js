@@ -18,7 +18,8 @@ const { createApp } = Vue
 				cuentaDeDestino:"",
 				abrirAlerta:false,
 				cuotaPorcentaje:null,
-				PorcentajeMasMonto:null
+				PorcentajeMasMonto:null,
+				masPrestamos:false,
 			}
 
     },
